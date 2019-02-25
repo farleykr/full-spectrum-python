@@ -1,0 +1,16 @@
+.top-bar {
+  height: 8px;
+  background-color: #4B8BBE;
+}
+
+.hero {
+  min-height: 90vh;
+}
+
+.rubik {
+  font-family: 'Rubik', sans-serif;
+}
+
+.open-sans {
+  font-family: 'Open Sans', sans-serif;
+}
